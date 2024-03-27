@@ -1,5 +1,5 @@
 {
-  "name": "@lbnqduy11805/miniature-garbanzo",
+  "name": "@lbnqduy/super-octo-eureka",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,19 +10,29 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbnqduy11805/miniature-garbanzo.git"
+    "url": "https://github.com/lbnqduy/super-octo-eureka.git"
   },
   "dependencies": {
+    "@lbnqduy/automatic-octo-dollop": "^1.0.0",
     "@lbnqduy/cautious-happiness": "^1.0.0",
     "@lbnqduy/congenial-waffle": "^1.0.0",
     "@lbnqduy/curly-octo-rotary-phone": "^1.0.0",
+    "@lbnqduy/didactic-disco": "^1.0.0",
     "@lbnqduy/didactic-waffle": "^1.0.0",
     "@lbnqduy/effective-system": "^1.0.0",
     "@lbnqduy/fantastic-doodle": "^1.0.1",
     "@lbnqduy/fluffy-meme": "^1.0.0",
+    "@lbnqduy/improved-chainsaw": "^1.0.0",
+    "@lbnqduy/laughing-journey": "^1.0.0",
+    "@lbnqduy/potential-parakeet": "^1.0.0",
+    "@lbnqduy/psychic-journey": "^1.0.0",
     "@lbnqduy/redesigned-tribble": "^1.0.0",
     "@lbnqduy/refactored-fiesta": "^1.0.0",
+    "@lbnqduy/solid-funicular": "^1.0.0",
+    "@lbnqduy/solid-robot": "^1.0.0",
     "@lbnqduy/stunning-waffle": "^1.0.0",
+    "@lbnqduy/sturdy-octo-potato": "^1.0.0",
+    "@lbnqduy/vigilant-spoon": "^1.0.0",
     "@lbnqduy180500/expert-meme": "^1.0.0",
     "@lbnqduy180500/fluffy-couscous": "^1.0.0",
     "@lbnqduy180500/legendary-bassoon": "^1.0.0",
